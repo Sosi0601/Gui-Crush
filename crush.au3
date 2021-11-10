@@ -27,7 +27,7 @@ While 1
 		Case $GUI_EVENT_CLOSE
 			MsgBox(0,'Thoát','Ban chua tra loi :)))' )
 		Case $Button1
-			ShellExecute("https://dinhkaito.github.io/Crush/")
+			ShellExecute("https://Sosi0601.github.io/Gui-Crush/")
 			Exit
 		Case $Button2
 			ShellExecute("https://i.imgur.com/gxNINu9.png")
